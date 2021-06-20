@@ -1,5 +1,8 @@
 # Insta-Clone
 
+This is an instagram clone made with react native and javascript. It is optimized for both IOS and Andorid. 
+
+
 ## What I had learned?
 -React.js
 -Node.js
@@ -14,3 +17,6 @@
 -Like, Comment or Post Images
 -Update Profile Image
 -Reset Password
+
+
+![](Screenshott.png)
