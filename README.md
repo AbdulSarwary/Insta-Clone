@@ -3,7 +3,7 @@
 This is an instagram clone made with react native and javascript. It is optimized for both IOS and Andorid. 
 
 
-## What I had learned?
+## What I learned 
 
 -React.js
 
