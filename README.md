@@ -19,4 +19,4 @@ This is an instagram clone made with react native and javascript. It is optimize
 -Reset Password
 
 
-![](Screenshott.png)
+![](Client/Screenshott.png)
